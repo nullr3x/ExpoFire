@@ -20,6 +20,7 @@ A simple python script to exploit vulnerable Firebase Database.
 
 # Usage #
 Just go to your terminal & hit expofire as shown in picture below:
-![poc-image]()
+![poc-image](https://github.com/Nullrex/ExpoFire/blob/master/firebase/Screenshot/poc.png)
+
 # License #
 Thanos is licensed under the MIT [license](https://github.com/Nullrex/ExpoFire/blob/master/LICENSE). take a look at the LICENSE for more information.
