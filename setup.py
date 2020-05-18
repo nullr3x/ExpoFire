@@ -6,7 +6,7 @@ with open("README.md", "r") as readme_file:
 setup(
 	name="expofire",
 	version="1.0",
-	url="/home/nullrex/Desktop/project-try/expofire",
+	url="https://github.com/nullr3x/ExpoFire",
 	description="A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! ",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
