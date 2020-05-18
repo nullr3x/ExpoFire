@@ -14,7 +14,7 @@ A simple python script to exploit vulnerable Firebase Database.
 ## Installing ##
 ### Required ###
 ### Using setup file ###
-`git clone `
+`git clone`
 `cd ExpoFire`
 `sudo python3 setup.py install`
 
