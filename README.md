@@ -8,8 +8,6 @@ A simple python script to exploit vulnerable Firebase Database.
 ## Dependencies ##
 * setuptools
 * requests
-* urllib3
-* json
 
 ## Installing ##
 ### Using setup file ###
